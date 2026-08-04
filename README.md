@@ -37,7 +37,7 @@ Con este proyecto aprendí a:
 - Diseñar un dashboard pensando en que sea claro y fácil de interpretar.
 - Utilizar segmentadores para que los gráficos respondan dinámicamente.
 
-Este proyecto representa el inicio de mi portfolio como Analista de Datos. Mi próximo objetivo es desarrollar una nueva versión del dashboard conectándolo a una base de datos SQL. Ese será mi siguiente proyecto: QuaneliaSur_2.0.
+Mi próximo objetivo es desarrollar una nueva versión de este proyecto incorporando SQL. Ese será mi siguiente paso: QuaneliaSur_2.0.
 
 
-Nota: QuaneliaSur es un nombre ficticio creado exclusivamente para este proyecto de portfolio.
+Nota: QuaneliaSur es un nombre ficticio creado exclusivamente para este proyecto de portfolio y no representa una empresa real.

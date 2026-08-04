@@ -1,5 +1,7 @@
 # 🌱 Quanelia Sur 1.0
 
+![Dashboard](Dashboard_Final.png)
+
 ## Dashboard Ejecutivo de Producción
 
 Este es mi primer proyecto de análisis de datos desarrollado en Power BI.

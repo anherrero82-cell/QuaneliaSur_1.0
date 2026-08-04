@@ -39,4 +39,5 @@ Con este proyecto aprendí a:
 
 Este proyecto representa el inicio de mi portfolio como Analista de Datos. Mi próximo objetivo es desarrollar una nueva versión del dashboard conectándolo a una base de datos SQL. Ese será mi siguiente proyecto: QuaneliaSur_2.0.
 
+
 Nota: QuaneliaSur es un nombre ficticio creado exclusivamente para este proyecto de portfolio.
